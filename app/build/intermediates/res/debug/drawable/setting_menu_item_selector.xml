@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/setting_menu_item_click_color" android:state_pressed="true"/>
+    <item android:drawable="@color/white" android:state_pressed="false"/>
+
+</selector><!-- From: file:/D:/360Downloads/littleChi/androidProSample-master/app/src/main/res/drawable/setting_menu_item_selector.xml -->
